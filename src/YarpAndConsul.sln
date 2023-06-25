@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API1", "API1\API1.csproj", "{B0109C9A-DA26-4F3A-9286-B49CB26D6BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseProxy", "ReverseProxy\ReverseProxy.csproj", "{8D0D8FA5-B023-4FA7-9DE4-E9AE8BA3CFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0109C9A-DA26-4F3A-9286-B49CB26D6BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0109C9A-DA26-4F3A-9286-B49CB26D6BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0109C9A-DA26-4F3A-9286-B49CB26D6BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0109C9A-DA26-4F3A-9286-B49CB26D6BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0D8FA5-B023-4FA7-9DE4-E9AE8BA3CFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0D8FA5-B023-4FA7-9DE4-E9AE8BA3CFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0D8FA5-B023-4FA7-9DE4-E9AE8BA3CFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0D8FA5-B023-4FA7-9DE4-E9AE8BA3CFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABF73F41-5896-4120-87A2-D820705E3576}
+	EndGlobalSection
+EndGlobal
